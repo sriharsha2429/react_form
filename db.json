@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "karthik",
+      "userName": "karthik",
+      "password": "1234",
+      "address": "71-8-11",
+      "country": "India",
+      "state": "Andhra Pradesh",
+      "contact": "9703013570",
+      "email": "sriharsha8324@gmail.com",
+      "dob": "2020-09-29T18:30:00.000Z",
+      "account": "Savings",
+      "branch": "hyd",
+      "idm": "100000",
+      "ipt": "1001",
+      "idn": "01010",
+      "id": 9,
+      "availableBalance": 110000
+    },
+    {
+      "name": "ananth",
+      "userName": "anu",
+      "password": "1234",
+      "address": "71-8-11",
+      "country": "India",
+      "state": "Andhra Pradesh",
+      "contact": "9703013570",
+      "email": "sriharsha0324@gmail.com",
+      "dob": "2020-01-31T18:30:00.000Z",
+      "account": "Savings",
+      "branch": "baja",
+      "idm": "123456",
+      "ipt": "123",
+      "idn": "123",
+      "id": 10
+    }
+  ]
+}
